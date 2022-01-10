@@ -20,6 +20,13 @@
     clear: both;
     font-size: var(--size)
 }
+.enclosure {
+    clear: both;
+}
+.TopSpace {
+    padding-top: 50px;
+    clear: both;
+}
 .messages {
     visibility: hidden;
     color: DarkRed; 
