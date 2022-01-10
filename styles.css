@@ -21,7 +21,6 @@
     font-size: var(--size)
 }
 .bottom {
-    clear: both;
     position: absolute;
     bottom: 10px;
 }
