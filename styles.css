@@ -21,8 +21,9 @@
     font-size: var(--size)
 }
 .bottom {
-    position: absolute;
+    position: fixed;
     bottom: 10px;
+    width: 60vw;
 }
 .TopSpace {
     padding-top: 50px;
