@@ -20,8 +20,10 @@
     clear: both;
     font-size: var(--size)
 }
-.enclosure {
+.bottom {
     clear: both;
+    position: absolute;
+    bottom: 10px;
 }
 .TopSpace {
     padding-top: 50px;
