@@ -1,0 +1,28 @@
+:root {
+    --size: 1.5em;
+}
+
+.alignleft {
+    float: left;
+    padding: 20px;
+}
+.alignright {
+    float: right;
+    padding: 20px;
+}
+.middle {
+    margin: auto;
+    width: 60vw;
+    background-color: DimGrey;
+    color: White;
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+    clear: both;
+    font-size: var(--size)
+}
+.messages {
+    visibility: hidden;
+    color: DarkRed; 
+    background-color: LightPink; 
+    font-size: 1em;
+}
