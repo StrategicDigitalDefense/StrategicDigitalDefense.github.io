@@ -34,3 +34,6 @@
     background-color: LightPink; 
     font-size: 1em;
 }
+#hr {
+    max-width: 100%;
+}
